@@ -1,0 +1,8 @@
+- makestar-be 백엔드
+  - 실행방법
+  - 'yarn' 으로 모듈 설치
+  - 'yarn start' 실행
+- makestar-fe 프론트엔드
+  - 실행방법
+  - 'yarn' 으로 모듈 설치
+  - 'yarn dev' 실행
