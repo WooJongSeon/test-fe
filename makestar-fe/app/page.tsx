@@ -1,8 +1,8 @@
 "use client";
 
-import ConfirmModal from "@/component/ConfirmModal/confirmModal";
-import TitleWrapper from "@/component/HeaderTitle/headerTitle";
-import PartyListWrapper from "@/component/PartyList/partylist";
+import ConfirmModal from "@/components/ConfirmModal/confirmModal";
+import TitleWrapper from "@/components/HeaderTitle/headerTitle";
+import PartyListWrapper from "@/components/PartyList/partylist";
 import useParty from "@/hooks/useParty";
 import { IExternalData } from "@/types/types";
 import { useState } from "react";
